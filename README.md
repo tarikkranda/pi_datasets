@@ -1,2 +1,2 @@
 # pi_datasets
-Datasets for questionnaires
+This repository only includes files for datasets in questionnaires. 
